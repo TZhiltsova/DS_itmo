@@ -1,2 +1,2 @@
 # DS_itmo
-Repo for passing DS ITMO course
+Домашние задания по курсу Python для анализа данных
